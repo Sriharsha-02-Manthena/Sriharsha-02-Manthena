@@ -207,7 +207,7 @@ Designed an end-to-end Machine Learning solution to identify high-risk customers
 
 <div align="center">
 
-**Building scalable AI, Machine Learning, and Data Engineering solutions with measurable business impact.**
+**Designing production-ready AI, Machine Learning, and Data Engineering solutions that drive measurable business impact.**
 
 </div>
 
@@ -215,18 +215,21 @@ Designed an end-to-end Machine Learning solution to identify high-risk customers
 
 ## AI / ML Engineer
 
-**ApplyWizz** • *2023 – Present*
+**Macy's** • *Feb 2025 – Present*  
+*New York, NY (Remote)*
 
-Developing enterprise AI applications, Machine Learning solutions, and Generative AI systems using modern cloud-native technologies and MLOps practices.
+Developing enterprise AI and Machine Learning solutions for retail forecasting, customer analytics, recommendation systems, and data engineering using cloud-native technologies and scalable ML pipelines.
 
 ### Key Responsibilities
 
-- Designed and deployed production-ready Machine Learning pipelines.
-- Built enterprise RAG applications using LangChain and LlamaIndex.
-- Developed scalable REST APIs using FastAPI and Flask.
-- Engineered data pipelines with Databricks, PySpark, and Snowflake.
-- Automated model deployment using Docker, GitHub Actions, and cloud platforms.
-- Collaborated with cross-functional teams to deliver AI-driven business solutions.
+- Engineered SKU-level demand forecasting models using **Python, SQL, XGBoost, Prophet, and Snowflake**, improving inventory planning accuracy by **18%**.
+- Built customer segmentation pipelines with **Scikit-learn, Pandas, and SQL**, increasing marketing targeting efficiency by **14%**.
+- Developed scalable **Databricks** and **PySpark** feature engineering pipelines, reducing manual data preparation by **35%**.
+- Created machine learning recommendation models to deliver more relevant product recommendations across digital retail platforms.
+- Evaluated forecasting and recommendation models using **MAE, MAPE, Precision, Recall,** and drift detection to ensure production reliability.
+- Automated model refresh pipelines, reporting datasets, and analytics workflows using **Python, SQL,** and **Databricks**, reducing turnaround time from **2 days to 6 hours**.
+- Collaborated with merchandising, supply chain, marketing, and BI teams to translate business requirements into production-ready AI solutions.
+- Optimized **Snowflake** queries and ML-ready datasets to improve data quality, feature engineering, and model performance.
 
 ---
 
@@ -234,10 +237,9 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 <div align="center">
 
-`Python` • `Machine Learning` • `Generative AI` • `LangChain` • `LlamaIndex` • `FastAPI` • `PyTorch` • `TensorFlow` • `Snowflake` • `Databricks` • `AWS` • `Azure` • `Docker` • `Kubernetes`
+`Python` • `SQL` • `XGBoost` • `Prophet` • `Scikit-learn` • `Pandas` • `PySpark` • `Databricks` • `Snowflake` • `Machine Learning` • `Recommendation Systems` • `Demand Forecasting` • `AWS`
 
 </div>
-
 ---
 
 <div align="center">
