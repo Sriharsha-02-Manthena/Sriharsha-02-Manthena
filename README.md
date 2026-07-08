@@ -290,7 +290,7 @@ I enjoy building reliable AI products using modern ML frameworks, MLOps practice
 
 <div align="center">
 
-> **Core competencies across Artificial Intelligence, Machine Learning, Generative AI, Data Engineering, and Cloud-Native AI solutions.**
+**Core competencies across Artificial Intelligence, Machine Learning, Generative AI, Data Engineering, and Cloud-Native AI solutions.**
 
 </div>
 
@@ -512,6 +512,7 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 **Artificial Intelligence • Machine Learning • Generative AI • MLOps • Cloud-Native AI**
 
 </div>
+
 # Professional Achievements
 
 <div align="center">
@@ -713,7 +714,7 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 
 <div align="center">
 
-> **Continuously expanding expertise in Artificial Intelligence, Machine Learning, and Enterprise AI systems.**
+**Continuously expanding expertise in Artificial Intelligence, Machine Learning, and Enterprise AI systems.**
 
 </div>
 
@@ -769,11 +770,13 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 
 </div>
 
-# GitHub Analytics
+---
 
 <div align="center">
 
-> **A snapshot of my GitHub activity, programming languages, and contribution history.**
+### Engineering Focus
+
+**Artificial Intelligence • Machine Learning • Generative AI • MLOps • Cloud-Native AI**
 
 </div>
 
@@ -781,7 +784,19 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Sriharsha-02-Manthena&theme=github-dark&hide_border=true&border_radius=12"/>
+### AI Engineering Philosophy
+
+*"Building intelligent, scalable, and production-ready AI systems through Machine Learning, Generative AI, and cloud-native engineering."*
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+ **A visual representation of my GitHub contributions and continuous learning journey.**
 
 </div>
 
@@ -797,8 +812,128 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 
 <div align="center">
 
-### Engineering Focus
+### Contribution Philosophy
 
-**Artificial Intelligence • Machine Learning • Generative AI • MLOps • Cloud-Native AI**
+*"Committed to continuous learning, open-source collaboration, and building production-ready Artificial Intelligence and Machine Learning solutions."*
+
+</div>
+
+---
+
+# Current Focus
+
+<div align="center">
+
+> **Currently learning, building, and exploring production-ready Artificial Intelligence systems.**
+
+</div>
+
+---
+
+```yaml
+current_focus:
+
+  learning:
+    - Large Language Models (LLMs)
+    - Agentic AI
+    - Retrieval-Augmented Generation (RAG)
+    - Advanced Prompt Engineering
+    - MLOps & LLMOps
+
+  building:
+    - Enterprise AI Applications
+    - Production-Grade RAG Systems
+    - Intelligent ML Pipelines
+    - AI-Powered Business Solutions
+    - Cloud-Native AI Services
+
+  exploring:
+    - Multi-Agent AI Systems
+    - Vector Databases
+    - AI Evaluation Frameworks
+    - Explainable AI (XAI)
+    - Model Optimization
+
+  open_to:
+    - AI / ML Engineer
+    - Machine Learning Engineer
+    - Generative AI Engineer
+    - Applied AI Engineer
+    - MLOps Engineer
+    - AI Research Engineer
+
+  ask_me_about:
+    - Python
+    - Machine Learning
+    - Generative AI
+    - LangChain
+    - LlamaIndex
+    - FastAPI
+    - Snowflake
+    - Databricks
+    - AWS
+    - Azure
+    - MLOps
+```
+
+---
+
+<div align="center">
+
+### Mission
+
+*"Building intelligent, scalable, and production-ready AI systems that transform complex data into measurable business value."*
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+> **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:sriharsha.manthena@applywizard.ai">
+<img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sriharsha-02-Manthena">
+<img src="https://img.shields.io/badge/GitHub-Sriharsha--02--Manthena-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://applywizz-sriharshamanthena-6162.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Interested in collaborating on Artificial Intelligence, Machine Learning, Generative AI, and Open Source AI projects.**
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Building intelligent, scalable, and production-ready AI systems that transform data into meaningful business impact."*
+
+<br>
+
+Thank you for visiting my GitHub profile.
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3B0764,25:5B21B6,50:7C3AED,75:4F46E5,100:2563EB"/>
 
 </div>
