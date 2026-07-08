@@ -19,24 +19,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: Sriharsha-02-Manthena
-
           filename: github-metrics.svg
 
           template: classic
-
           base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Kolkata
 
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used,recent
-          plugin_languages_indepth: yes
 
           plugin_isocalendar: yes
 
-          plugin_followup: yes
-
-          plugin_achievements: yes
-
-          plugin_lines: yes
+          plugin_achievements: no
+          plugin_followup: no
+          plugin_lines: no
