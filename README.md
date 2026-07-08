@@ -361,9 +361,8 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 ---
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 ---
 
 # Contribution Activity
