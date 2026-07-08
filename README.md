@@ -346,14 +346,6 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 <div align="center">
 
-**Automatically updated every day using GitHub Actions.**
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/main/github-metrics.svg"/>
 
 </div>
