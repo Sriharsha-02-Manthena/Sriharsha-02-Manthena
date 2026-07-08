@@ -1,41 +1,25 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,25:5B21B6,50:7C3AED,75:4F46E5,100:2563EB&height=260&section=header&text=Sriharsha%20Manthena&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
-
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Machine+Learning+Engineer;Generative+AI+Engineer;Building+Production-Ready+AI+Solutions"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/M.S.-Business_Analytics-5B21B6?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/B.Tech-Electrical_&_Electronics_Engineering-4338CA?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Location-Massachusetts,_USA-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 <br><br>
-
 <a href="https://applywizz-sriharshamanthena-6162.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="mailto:sriharsha.manthena@applywizard.ai">
 <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Sriharsha-02-Manthena">
 <img src="https://img.shields.io/badge/GitHub-Sriharsha--02--Manthena-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Sriharsha-02-Manthena&style=for-the-badge&color=7C3AED"/>
-
 <img src="https://img.shields.io/github/followers/Sriharsha-02-Manthena?style=for-the-badge&color=5B21B6&label=Followers"/>
-
 <img src="https://img.shields.io/github/stars/Sriharsha-02-Manthena?affiliations=OWNER&style=for-the-badge&color=4338CA&label=Stars"/>
-
 </div>
 
 ---
