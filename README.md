@@ -941,7 +941,6 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 *"Building intelligent, scalable, and production-ready AI systems that transform complex business challenges into measurable real-world impact."*
 
 </div>
-
 # GitHub Analytics
 
 <div align="center">
@@ -964,7 +963,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharsha-02-Manthena&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Sriharsha-02-Manthena&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -972,7 +971,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/main/github-metrics.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
@@ -990,7 +989,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-**Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence, Machine Learning, and Generative AI.**
+> **Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence, Machine Learning, and Generative AI.**
 
 </div>
 
@@ -998,7 +997,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriharsha-02-Manthena&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriharsha-02-Manthena&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
