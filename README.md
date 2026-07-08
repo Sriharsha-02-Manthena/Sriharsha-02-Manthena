@@ -260,7 +260,7 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 **Industry-recognized certifications supporting my expertise in Artificial Intelligence, Machine Learning, Cloud Computing, and Data Analytics.**
 
 </div>
----
+
 <div align="center">
 
 | Provider | Certification |
@@ -278,10 +278,6 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 ### Core Learning Areas
 
 **Machine Learning • Generative AI • Deep Learning • Cloud AI • MLOps • Data Analytics**
-
-</div>
-
----
 
 </div>
 
@@ -329,29 +325,21 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 <div align="center">
 
- **A snapshot of my GitHub activity, repositories, and coding statistics.**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriharsha-02-Manthena&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriharsha-02-Manthena&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriharsha-02-Manthena&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriharsha-02-Manthena&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriharsha-02-Manthena&theme=github_dark&utcOffset=5.5"/>
 
 </div>
-
----
-
-<div align="center">
-
-<!-- Temporary Public Instance -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sriharsha-02-Manthena&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark_dimmed&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sriharsha-02-Manthena&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="92%" src="https://streak-stats.demolab.com?user=Sriharsha-02-Manthena&theme=github-dark&hide_border=true"/>
-
-</div>
-
 ---
 
 # GitHub Metrics
