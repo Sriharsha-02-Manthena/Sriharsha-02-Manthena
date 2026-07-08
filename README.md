@@ -941,11 +941,12 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 *"Building intelligent, scalable, and production-ready AI systems that transform complex business challenges into measurable real-world impact."*
 
 </div>
+
 # GitHub Analytics
 
 <div align="center">
 
-> **A visual overview of my GitHub activity, contributions, repositories, and programming languages.**
+> **A visual overview of my GitHub activity, contributions, and open-source journey.**
 
 </div>
 
@@ -953,17 +954,11 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriharsha-02-Manthena&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img src="https://komarev.com/ghpvc/?username=Sriharsha-02-Manthena&style=for-the-badge&color=7C3AED"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharsha-02-Manthena&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10"/>
+<img src="https://img.shields.io/github/followers/Sriharsha-02-Manthena?style=for-the-badge&label=Followers&color=5B21B6"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Sriharsha-02-Manthena&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://img.shields.io/github/stars/Sriharsha-02-Manthena?affiliations=OWNER&style=for-the-badge&label=Stars&color=2563EB"/>
 
 </div>
 
@@ -971,7 +966,36 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/main/github-metrics.svg" alt="GitHub Metrics"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Sriharsha-02-Manthena&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sriharsha-02-Manthena&theme=tokyo-night&hide_border=true&radius=16&area=true)](https://github.com/Sriharsha-02-Manthena)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -985,19 +1009,11 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 </div>
 
-# GitHub Trophies
+# GitHub Highlights
 
 <div align="center">
 
-> **Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence, Machine Learning, and Generative AI.**
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriharsha-02-Manthena&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+> **Showcasing continuous learning, open-source contributions, and engineering excellence.**
 
 </div>
 
