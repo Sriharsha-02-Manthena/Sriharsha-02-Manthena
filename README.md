@@ -351,16 +351,18 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 </div>
 
 ---
-
 # Recent GitHub Activity
 
 <div align="center">
 
-> **Recent GitHub activity will appear here automatically after enabling GitHub Actions.**
+> **Latest development activity automatically updated.**
 
 </div>
 
 ---
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
