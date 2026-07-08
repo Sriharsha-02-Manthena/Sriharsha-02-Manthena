@@ -1,24 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3B0764,30:5B21B6,60:7C3AED,100:2563EB&text=Sriharsha%20Manthena&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Generative%20AI&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3B0764,25:5B21B6,50:7C3AED,75:4F46E5,100:2563EB&text=Sriharsha%20Manthena&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20•%20Generative%20AI%20•%20Machine%20Learning&descAlignY=58"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Software+Engineer;Full+Stack+Developer;Generative+AI+Developer;Machine+Learning+Engineer;Building+Production+Ready+AI+Systems"/>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://img.shields.io/badge/Western_New_England_University-MS_Business_Analytics-5B21B6?style=for-the-badge)
-
-![](https://img.shields.io/badge/B.Tech-Electronics_%26_Communication-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-West_Springfield,_MA-4338CA?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Machine+Learning+Engineer;Generative+AI+Engineer;Applied+AI+Engineer;Building+Production-Ready+AI+Systems"/>
 
 </div>
 
@@ -26,17 +14,28 @@
 
 <div align="center">
 
-<a href="https://applywizz-sriharshamanthena-6162.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/M.S.-Business_Analytics-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/B.Tech-Electronics_%26_Communication-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-West_Springfield,_MA-4338CA?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://applywizz-sriharshamanthena-6162.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 
 <a href="mailto:sriharsha.manthena@applywizard.ai">
 <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sriharsha-02-Manthena">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -45,62 +44,65 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Sriharsha-02-Manthena&style=for-the-badge&color=7C3AED)
+<img src="https://komarev.com/ghpvc/?username=Sriharsha-02-Manthena&style=for-the-badge&color=7C3AED"/>
 
-![](https://img.shields.io/github/followers/Sriharsha-02-Manthena?style=for-the-badge&color=5B21B6&label=Followers)
+<img src="https://img.shields.io/github/followers/Sriharsha-02-Manthena?style=for-the-badge&label=Followers&color=5B21B6"/>
 
-![](https://img.shields.io/github/stars/Sriharsha-02-Manthena?affiliations=OWNER&style=for-the-badge&color=2563EB&label=Stars)
+<img src="https://img.shields.io/github/stars/Sriharsha-02-Manthena?affiliations=OWNER&style=for-the-badge&label=Stars&color=2563EB"/>
 
 </div>
 
-## About Me
+# About Me
 
-<img align="right" alt="AI Developer" width="380" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-I'm an **AI/ML Engineer** with **3+ years of experience** designing and deploying enterprise-grade Machine Learning, Generative AI, and Full Stack solutions that transform complex business challenges into scalable, production-ready applications.
+I am an **AI/ML Engineer** with **3+ years of experience** developing production-ready Artificial Intelligence, Machine Learning, and Generative AI solutions for retail, customer analytics, and enterprise applications.
 
-My expertise spans the complete AI product lifecycle—from data engineering and feature development to model training, MLOps, cloud deployment, and continuous optimization. I enjoy building intelligent systems that are reliable, maintainable, and capable of delivering measurable business impact.
+My work focuses on designing scalable machine learning pipelines, Retrieval-Augmented Generation (RAG) systems, Large Language Model (LLM) applications, and cloud-native AI solutions that transform business data into actionable insights.
 
-With hands-on experience across retail, customer analytics, supply chain optimization, recommendation systems, forecasting, Retrieval-Augmented Generation (RAG), and Large Language Models, I focus on creating software that bridges cutting-edge AI research with real-world enterprise applications.
-
-I thrive in cross-functional engineering environments where software engineering best practices, cloud-native architectures, scalable infrastructure, and data-driven decision-making come together to build exceptional products.
+I enjoy building reliable AI products using modern ML frameworks, MLOps practices, and cloud technologies while delivering measurable business impact.
 
 ---
 
-###  Areas of Expertise
+## Areas of Expertise
 
 | Domain | Focus |
 |---------|-------|
-|  Artificial Intelligence | Enterprise AI Solutions, LLM Applications, AI Automation |
-|  Machine Learning | Predictive Modeling, Classification, Forecasting, Recommendation Systems |
-|  Data Engineering | ETL Pipelines, Feature Engineering, Data Processing |
-|  Cloud Engineering | AWS, Azure, Docker, Kubernetes, CI/CD |
-|  Full Stack Development | FastAPI, Flask, Streamlit, React Integration |
-|  Business Analytics | Customer Insights, Retail Analytics, Supply Chain Intelligence |
+| Artificial Intelligence | LLM Applications, Generative AI, AI Automation |
+| Machine Learning | Predictive Modeling, Forecasting, Recommendation Systems |
+| Data Engineering | ETL Pipelines, Feature Engineering, Distributed Processing |
+| MLOps & Cloud | AWS, Azure, Docker, Kubernetes, CI/CD |
+| AI Application Development | FastAPI, Flask, Streamlit, Model Deployment |
+| Business Analytics | Customer Analytics, Demand Forecasting, Retail Intelligence |
 
 ---
-### Open To
 
-✔ AI/ML Engineer
+## Open To
 
-✔ Machine Learning Engineer
-
-✔ Generative AI Engineer
-
-✔ Applied AI Engineer
-
-✔ MLOps Engineer
-
-✔ Computer Vision Engineer
+- AI / ML Engineer
+- Machine Learning Engineer
+- Generative AI Engineer
+- Applied AI Engineer
+- MLOps Engineer
+- AI Research Engineer
 
 ---
- **"Building intelligent software that combines scalable engineering with practical AI to solve real-world business problems."**
-
-## Tech Stack
 
 <div align="center">
 
- **Building Enterprise AI, Machine Learning, and Cloud-Native Applications**
+### Engineering Vision
+
+*Building intelligent, scalable, and production-ready AI systems that solve real-world business challenges.*
+
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+**Artificial Intelligence • Machine Learning • Cloud-Native AI**
 
 </div>
 
@@ -112,7 +114,7 @@ I thrive in cross-functional engineering environments where software engineering
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql&theme=dark"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
@@ -143,8 +145,6 @@ I thrive in cross-functional engineering environments where software engineering
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/Large_Language_Models-5B21B6?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/RAG-4338CA?style=for-the-badge"/>
 
@@ -200,7 +200,7 @@ I thrive in cross-functional engineering environments where software engineering
 
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt"/>
 
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
 
 </div>
 
@@ -216,25 +216,15 @@ I thrive in cross-functional engineering environments where software engineering
 
 <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws"/>
 
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda"/>
-
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3"/>
-
-<img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws"/>
-
 <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws"/>
 
 <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Azure_AI_Search-2563EB?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge"/>
 
 </div>
 
@@ -260,19 +250,7 @@ I thrive in cross-functional engineering environments where software engineering
 
 ---
 
-## Streaming & Search
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
-
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch"/>
-
-</div>
-
----
-
-## Visualization & Business Intelligence
+## Data Visualization
 
 <div align="center">
 
@@ -280,17 +258,15 @@ I thrive in cross-functional engineering environments where software engineering
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Development Tools & Practices
+## Development Tools
 
 <div align="center">
 
@@ -300,13 +276,9 @@ I thrive in cross-functional engineering environments where software engineering
 
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
 
-<img src="https://img.shields.io/badge/Agile/Scrum-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/A%2FB_Testing-2563EB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/REST_APIs-4338CA?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Feature_Stores-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-2563EB?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/SHAP-6D28D9?style=for-the-badge"/>
 
@@ -314,82 +286,49 @@ I thrive in cross-functional engineering environments where software engineering
 
 </div>
 
-### Core Engineering Expertise
-
-| AI & ML | Software Engineering | Cloud & MLOps | Data Engineering |
-|:--------:|:-------------------:|:-------------:|:----------------:|
-| Machine Learning | Full Stack Development | AWS | Apache Spark |
-| Deep Learning | REST APIs | Azure | Databricks |
-| Generative AI | FastAPI | Docker | Snowflake |
-| Large Language Models | Flask | Kubernetes | Airflow |
-| RAG Systems | Microservices | GitHub Actions | Kafka |
-| Computer Vision | System Design | MLflow | dbt |
-| Recommendation Systems | Distributed Systems | Kubeflow | Feature Engineering |
-
-</div>
-
-# AI / Machine Learning Expertise
+# AI / ML Expertise
 
 <div align="center">
 
-  **Designing Enterprise AI Systems • Production ML Pipelines • Intelligent Applications**
+> **Core competencies across Artificial Intelligence, Machine Learning, Generative AI, Data Engineering, and Cloud-Native AI solutions.**
 
 </div>
 
 ---
 
-| **Domain** | **Proficiency** | **Details** |
-|------------|:---------------:|-------------|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised & Unsupervised Learning, Classification, Regression, Clustering, Ensemble Models, Feature Engineering, Model Evaluation, Hyperparameter Optimization |
-| **Deep Learning** | ⭐⭐⭐⭐⭐ | TensorFlow, PyTorch, Neural Networks, CNNs, Transfer Learning, Fine-Tuning, Model Optimization |
-| **Generative AI** | ⭐⭐⭐⭐⭐ | Large Language Models (LLMs), Prompt Engineering, OpenAI APIs, Azure OpenAI, Hugging Face, Multi-Provider LLM Integrations |
-| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐⭐ | Hybrid Search, Vector Databases, Semantic Search, BM25 Retrieval, Cross-Encoder Re-ranking, Citation Enforcement, Production RAG Systems |
-| **Natural Language Processing** | ⭐⭐⭐⭐⭐ | BERT, Transformers, Text Classification, Sentiment Analysis, Named Entity Recognition, Document Intelligence |
-| **Computer Vision** | ⭐⭐⭐⭐☆ | YOLOv8, OpenCV, Detectron2, Object Detection, Semantic Segmentation, Image Processing |
-| **Recommendation Systems** | ⭐⭐⭐⭐⭐ | Collaborative Filtering, Content-Based Filtering, Hybrid Recommendations, Product Personalization |
-| **Demand Forecasting** | ⭐⭐⭐⭐⭐ | Time Series Forecasting, Prophet, XGBoost, Inventory Planning, Retail Analytics, Sales Prediction |
-| **Customer Analytics** | ⭐⭐⭐⭐⭐ | Customer Segmentation, Churn Prediction, Behavioral Analytics, Marketing Intelligence |
-| **Predictive Analytics** | ⭐⭐⭐⭐⭐ | Business Forecasting, Classification Models, Risk Analysis, Customer Lifetime Value Prediction |
-| **Data Engineering** | ⭐⭐⭐⭐⭐ | ETL Pipelines, Apache Spark, PySpark, Databricks, Snowflake, Airflow, dbt |
-| **Cloud AI** | ⭐⭐⭐⭐⭐ | AWS SageMaker, AWS Bedrock, Azure Machine Learning, Azure AI Search, Serverless AI Workloads |
-| **MLOps** | ⭐⭐⭐⭐⭐ | MLflow, Kubeflow, Docker, Kubernetes, CI/CD, Model Versioning, Automated Deployment |
-| **Model Deployment** | ⭐⭐⭐⭐⭐ | FastAPI, Flask, Streamlit, ONNX Runtime, Triton Inference Server, TorchServe |
-| **Vector Databases** | ⭐⭐⭐⭐⭐ | Pinecone, ChromaDB, Qdrant, Embedding Pipelines, Semantic Retrieval |
-| **LLM Frameworks** | ⭐⭐⭐⭐⭐ | LangChain, LlamaIndex, CrewAI, AutoGen, Agentic AI Workflows |
-| **Data Visualization** | ⭐⭐⭐⭐☆ | Tableau, Power BI, Plotly, Matplotlib, Interactive Business Dashboards |
-| **Experimentation** | ⭐⭐⭐⭐⭐ | A/B Testing, Feature Importance, SHAP, LIME, Explainable AI, Model Monitoring |
+<div align="center">
+
+| Domain | Proficiency | Expertise |
+|:-------|:-----------:|:----------|
+| Artificial Intelligence | Advanced | Generative AI, LLM Applications, AI Automation |
+| Machine Learning | Advanced | Classification, Regression, Forecasting, Recommendation Systems |
+| Deep Learning | Advanced | Neural Networks, Transfer Learning, Computer Vision |
+| Generative AI | Advanced | RAG, Prompt Engineering, LangChain, LlamaIndex |
+| Natural Language Processing | Advanced | Transformers, Hugging Face, Semantic Search |
+| Computer Vision | Intermediate | YOLOv8, OpenCV, Detectron2, Object Detection |
+| Data Engineering | Advanced | ETL, Feature Engineering, Apache Spark, Databricks |
+| MLOps | Advanced | MLflow, Kubeflow, CI/CD, Model Deployment |
+| Cloud AI | Advanced | AWS SageMaker, Azure ML, Bedrock, Azure AI Search |
+| API Development | Advanced | FastAPI, Flask, REST APIs, Streamlit |
+
+</div>
 
 ---
 
-## Core AI Engineering Capabilities
+## AI Technology Stack
 
-| **Capability** | **Enterprise Experience** |
-|----------------|---------------------------|
-|  Enterprise AI Solutions | Designing scalable AI applications for retail, supply chain, analytics, and customer intelligence |
-|  LLM Application Development | Building production-ready Generative AI and Retrieval-Augmented Generation (RAG) systems |
-|  Intelligent Automation | Automating business workflows with AI, Python, and cloud-native technologies |
-|  Predictive Analytics | Forecasting, customer behavior analysis, recommendation systems, and anomaly detection |
-|  Cloud-Native AI | Deploying AI workloads on AWS and Azure with scalable MLOps pipelines |
-|  Production MLOps | End-to-end model lifecycle management, CI/CD, monitoring, and continuous deployment |
-|  Data Engineering | Designing high-performance data pipelines for ML-ready datasets |
-|  AI Model Evaluation | Model explainability, performance optimization, drift detection, and governance |
+<div align="center">
 
----
+| Artificial Intelligence | Machine Learning | Cloud & MLOps |
+|:-----------------------:|:----------------:|:-------------:|
+| Large Language Models | Scikit-learn | AWS SageMaker |
+| Retrieval-Augmented Generation | XGBoost | Azure Machine Learning |
+| LangChain | LightGBM | Docker |
+| LlamaIndex | PyTorch | Kubernetes |
+| Prompt Engineering | TensorFlow | MLflow |
+| Multi-Agent Systems | Feature Engineering | GitHub Actions |
 
-## Enterprise AI Technology Matrix
-
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **Programming** | Python, SQL, R, Java, C++ |
-| **Machine Learning** | Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch |
-| **Generative AI** | OpenAI, Azure OpenAI, Hugging Face, LangChain, LlamaIndex |
-| **Vector Search** | Pinecone, ChromaDB, Qdrant |
-| **Data Engineering** | Pandas, NumPy, Apache Spark, PySpark, Databricks, Snowflake |
-| **Cloud Platforms** | AWS, Azure |
-| **MLOps** | Docker, Kubernetes, MLflow, Kubeflow, GitHub Actions, Jenkins |
-| **Model Serving** | FastAPI, Flask, Streamlit, ONNX Runtime, Triton Inference Server |
-| **Visualization** | Tableau, Power BI, Plotly, Matplotlib |
-| **DevOps** | Git, GitHub, CI/CD, Agile, Jira |
+</div>
 
 ---
 
@@ -397,15 +336,17 @@ I thrive in cross-functional engineering environments where software engineering
 
 ### Engineering Focus
 
-**Building secure, scalable, and production-ready AI systems that transform complex business problems into intelligent, data-driven solutions.**
+**Enterprise AI • Machine Learning • Generative AI • Retrieval-Augmented Generation • MLOps**
 
 </div>
+
+---
 
 # Featured Projects
 
 <div align="center">
 
-  **Enterprise AI • Production Machine Learning • Generative AI**
+> **Production-ready Artificial Intelligence and Machine Learning solutions focused on solving real-world business challenges.**
 
 </div>
 
@@ -413,13 +354,11 @@ I thrive in cross-functional engineering environments where software engineering
 
 <details open>
 
-<summary><b> Production-Grade Retrieval-Augmented Generation (RAG) Application</b></summary>
+<summary><b>Production-Grade Retrieval-Augmented Generation (RAG) Application</b></summary>
 
-## Overview
+### Overview
 
-A **production-ready Retrieval-Augmented Generation (RAG)** platform built to deliver accurate, context-aware, and source-grounded responses using hybrid retrieval, intelligent reranking, and multi-provider LLM support.
-
-The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio** to build a scalable AI knowledge assistant capable of serving enterprise search and question-answering use cases. Modern RAG architectures commonly combine vector search, reranking, and LLM orchestration to improve response quality and reduce hallucinations. :contentReference[oaicite:0]{index=0}
+Designed and developed a production-grade Retrieval-Augmented Generation platform that combines hybrid retrieval, intelligent reranking, and multi-provider LLM orchestration to deliver accurate, source-grounded responses for enterprise knowledge retrieval.
 
 ---
 
@@ -427,66 +366,36 @@ The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio*
 
 | Category | Details |
 |----------|---------|
-| **Role** | AI / ML Engineer |
-| **Domain** | Generative AI |
-| **Architecture** | Production-Ready RAG Pipeline |
-| **Tech Stack** | Python 3.11, FastAPI, LlamaIndex, LangChain, Qdrant, Gradio |
-| **LLM Providers** | OpenAI, Azure OpenAI, Gemini, Ollama, AWS SageMaker |
-| **Retrieval Strategy** | Hybrid BM25 + Semantic Vector Search |
-| **Vector Database** | Qdrant |
-| **Deployment** | Docker, FastAPI |
-| **Business Impact** | Improved document retrieval reliability by **32%** |
+| Role | AI / ML Engineer |
+| Domain | Generative AI |
+| Architecture | Production-Ready RAG Pipeline |
+| Tech Stack | Python, FastAPI, LlamaIndex, LangChain, Qdrant, Gradio |
+| Retrieval | Hybrid BM25 + Vector Search |
+| LLM Providers | OpenAI, Azure OpenAI, Gemini, Ollama, AWS SageMaker |
+| Deployment | Docker, FastAPI |
+| Impact | Improved retrieval reliability by **32%** |
+| Repository | **[View Repository](https://github.com/Sriharsha-02-Manthena/production-rag-application)** |
 
 ---
 
-<div align="center">
+### Key Highlights
 
-<a href="https://github.com/Sriharsha-02-Manthena/production-rag-application">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### Key Features
-
-- Hybrid BM25 + Semantic Vector Retrieval
-- Cross-Encoder Re-ranking
-- Strict Citation Enforcement
-- Multi-Provider LLM Support
-- YAML-Based Configuration Profiles
-- CI-Gated Evaluation Pipeline
-- Streaming Responses
-- Modular FastAPI Architecture
-- Docker-Based Deployment
-- Enterprise Logging & Monitoring
+- Hybrid BM25 and semantic vector retrieval
+- Cross-encoder reranking
+- Citation-grounded response generation
+- Multi-provider LLM integration
+- YAML-based configuration
+- Automated evaluation pipeline
+- Docker deployment
 
 ---
 
 ### Business Impact
 
--  Improved document retrieval reliability by **32%**
--  Increased source-grounded response accuracy by **27%**
--  Reduced regression risk by **35%**
--  Enabled multi-provider LLM interoperability
--  Delivered an enterprise-ready AI knowledge assistant
-
----
-
-### Technologies
-
-`Python`
-`FastAPI`
-`LangChain`
-`LlamaIndex`
-`Qdrant`
-`Gradio`
-`Docker`
-`OpenAI`
-`Azure OpenAI`
-`Gemini`
-`AWS SageMaker`
+- Increased retrieval reliability by **32%**
+- Improved grounded response accuracy by **27%**
+- Reduced regression risk by **35%**
+- Delivered a scalable enterprise AI knowledge platform
 
 </details>
 
@@ -494,13 +403,11 @@ The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio*
 
 <details>
 
-<summary><b> Customer Churn Prediction</b></summary>
+<summary><b>Customer Churn Prediction</b></summary>
 
-## Overview
+### Overview
 
-An end-to-end **Machine Learning** solution that predicts customer churn using customer behavior, tenure, billing, and service usage data.
-
-The project applies feature engineering, predictive modeling, and performance evaluation to help organizations proactively identify high-risk customers and improve customer retention through data-driven decision-making.
+Developed an end-to-end machine learning pipeline that predicts customer churn using customer behavior, tenure, billing, and service usage data to support proactive customer retention strategies.
 
 ---
 
@@ -508,38 +415,25 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 | Category | Details |
 |----------|---------|
-| **Role** | Machine Learning Engineer |
-| **Domain** | Customer Analytics |
-| **Architecture** | End-to-End ML Pipeline |
-| **Tech Stack** | Python, Pandas, SQL, Scikit-learn, XGBoost |
-| **Algorithms** | XGBoost, Classification Models |
-| **Evaluation Metrics** | Accuracy, Precision, Recall, F1-Score, ROC-AUC |
-| **Visualization** | Confusion Matrix, Feature Importance |
-| **Business Impact** | Improved churn classification recall by **24%** |
+| Role | Machine Learning Engineer |
+| Domain | Customer Analytics |
+| Architecture | End-to-End ML Pipeline |
+| Tech Stack | Python, Pandas, SQL, Scikit-learn, XGBoost |
+| Algorithms | XGBoost |
+| Evaluation | Accuracy, Precision, Recall, F1-Score, ROC-AUC |
+| Impact | Improved churn recall by **24%** |
+| Repository | **[View Repository](https://github.com/Sriharsha-02-Manthena/customer-churn-prediction)** |
 
 ---
 
-<div align="center">
+### Key Highlights
 
-<a href="https://github.com/Sriharsha-02-Manthena/customer-churn-prediction">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### Key Features
-
-- Customer Behavior Analytics
-- Feature Engineering
-- Data Cleaning & Preprocessing
-- Customer Churn Classification
-- Hyperparameter Optimization
-- Model Explainability
-- Performance Evaluation
-- Business Intelligence Reporting
-- Predictive Analytics Pipeline
+- Customer behavior analytics
+- Feature engineering
+- Data preprocessing
+- Predictive modeling
+- Model evaluation
+- Business insights generation
 
 ---
 
@@ -547,22 +441,8 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 - Improved churn prediction recall by **24%**
 - Reduced noisy model inputs by **28%**
-- Identified the top **18%** high-risk customer segment
+- Identified the top **18%** at-risk customer segment
 - Enabled data-driven customer retention strategies
-- Improved business decision-making through predictive analytics
-
----
-
-### Technologies
-
-`Python`
-`SQL`
-`Pandas`
-`NumPy`
-`Scikit-learn`
-`XGBoost`
-`Machine Learning`
-`Feature Engineering`
 
 </details>
 
@@ -570,104 +450,73 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 <div align="center">
 
-## Project Portfolio Summary
+### Project Portfolio
 
 | Production Projects | AI / ML | Enterprise Ready | Open Source |
-|:------------------:|:-------:|:----------------:|:-----------:|
-| **2** | ✅ | ✅ | ✅ |
+|:-------------------:|:-------:|:----------------:|:-----------:|
+| **2** | ✓ | ✓ | ✓ |
 
 </div>
 
-## Professional Experience
+---
+
+# Professional Experience
+
+<div align="center">
+
+> **Developing scalable Artificial Intelligence, Machine Learning, and Data Engineering solutions with measurable business impact.**
+
+</div>
 
 ---
 
-##  AI / ML Engineer | Macy's
+## AI / ML Engineer
 
-**📍 New York, NY (Remote)**  
-**📅 February 2025 – Present**
+**ApplyWizz** • *2023 – Present*
 
-Designed and deployed enterprise-scale Machine Learning solutions for retail demand forecasting, customer analytics, recommendation systems, and inventory optimization. Collaborated with cross-functional teams to build scalable AI products that improved business decision-making and operational efficiency.
+Designed and implemented enterprise AI and Machine Learning solutions focused on predictive analytics, Generative AI, intelligent automation, and cloud-native deployment.
 
-### Key Responsibilities
+### Responsibilities
 
-- Developed SKU-level demand forecasting models using **Python, SQL, XGBoost, Prophet, and Snowflake**, improving weekly inventory planning accuracy by **18%**.
-- Built customer segmentation pipelines using **Scikit-learn, Pandas, and SQL**, increasing marketing targeting efficiency by **14%**.
-- Designed scalable **Databricks** and **PySpark** feature engineering pipelines for sales, inventory, product, and customer datasets, reducing manual data preparation by **35%**.
-- Developed recommendation model outputs to improve product personalization across digital retail channels.
-- Evaluated forecasting and recommendation models using **MAE, MAPE, Precision, Recall, and Drift Monitoring** before production deployment.
-- Automated recurring model refreshes using **Python**, **SQL**, and **Databricks Jobs**, reducing analytics turnaround from **2 days to 6 hours**.
-- Collaborated with merchandising, supply chain, marketing, and BI teams to translate business problems into AI-driven solutions.
-- Optimized enterprise Snowflake queries and feature pipelines to improve ML training datasets and reporting.
+- Built production-ready Machine Learning pipelines for customer analytics and forecasting.
+- Developed Retrieval-Augmented Generation (RAG) applications using LangChain and LlamaIndex.
+- Designed scalable data engineering workflows using Databricks, PySpark, and Snowflake.
+- Built REST APIs for AI model serving using FastAPI and Flask.
+- Automated ML workflows using GitHub Actions, Docker, and cloud-native deployment strategies.
+- Collaborated with cross-functional teams to deliver enterprise AI solutions.
 
-### Tech Stack
+### Technologies
 
-`Python` `SQL` `Snowflake` `Databricks` `PySpark` `Scikit-learn` `XGBoost` `Prophet` `Pandas`
-
----
-
-## Graduate Assistant – AI / ML Engineer | Western New England University
-
-**📍 Springfield, Massachusetts**  
-**📅 September 2024 – January 2025**
-
-Developed AI-powered academic analytics solutions focused on anomaly detection, NLP, recommendation systems, and cloud-based ML deployment to support university operations and student success initiatives.
-
-### Key Responsibilities
-
-- Built an energy anomaly detection system using **Python, TensorFlow, and AWS Lambda**, reducing campus energy waste by **12%**.
-- Developed a **BERT-based sentiment analysis model** that achieved **94% classification accuracy** on student feedback.
-- Created a recommendation system for library resource usage using collaborative filtering, increasing student engagement by **18%**.
-- Automated academic reporting pipelines using **Apache Airflow**, **dbt**, and **SQL**, improving reporting efficiency by **40%**.
-- Designed interactive **Tableau dashboards** for enrollment trends, retention analysis, and scholarship insights.
-- Implemented **GitHub Actions** and **Docker-based CI/CD workflows**, reducing deployment preparation time from **2 weeks to 2 days**.
-- Conducted A/B testing and statistical analysis to improve student communication campaigns by **9%**.
-- Mentored junior analysts on Python, ML validation, and data preprocessing best practices.
-
-### Tech Stack
-
-`Python` `TensorFlow` `BERT` `AWS Lambda` `Airflow` `dbt` `SQL` `Docker` `GitHub Actions` `Tableau`
-
----
-
-## AI / ML Engineer | Augur Talent Care (Client: Tredence)
-
-**📍 Hyderabad, India**  
-**📅 October 2021 – December 2023**
-
-Contributed to enterprise AI and Machine Learning projects by developing predictive models, engineering high-quality datasets, automating analytics workflows, and collaborating with cross-functional teams to deliver scalable business solutions.
-
-### Key Responsibilities
-
-- Built supervised learning solutions using **Random Forest, XGBoost, and Regression** algorithms for client-focused analytics projects.
-- Performed extensive data cleaning and preprocessing using **Python** and **SQL**, reducing model input errors by **28%**.
-- Engineered reusable feature sets from operational and customer datasets using **Pandas**, **NumPy**, and SQL.
-- Evaluated ML models using **Accuracy, F1-Score, Recall, ROC-AUC**, and detailed error analysis.
-- Documented business requirements, feature engineering workflows, and model evaluation reports for enterprise stakeholders.
-- Collaborated with data engineers, business analysts, and senior data scientists to improve model quality and delivery timelines.
-- Automated recurring model evaluation reports using Python scripts and SQL, reducing manual reporting effort by **30%**.
-
-### Tech Stack
-
-`Python` `SQL` `Scikit-learn` `TensorFlow` `Pandas` `NumPy` `XGBoost` `Machine Learning`
+`Python`
+`Machine Learning`
+`Generative AI`
+`LangChain`
+`LlamaIndex`
+`FastAPI`
+`PyTorch`
+`TensorFlow`
+`Snowflake`
+`Databricks`
+`AWS`
+`Azure`
+`Docker`
+`Kubernetes`
+`GitHub Actions`
 
 ---
 
 <div align="center">
 
-### 📈 Career Snapshot
+### Professional Focus
 
-| Experience | Industries | AI Projects | Cloud Platforms |
-|:----------:|:----------:|:-----------:|:---------------:|
-| **3+ Years** | Retail • Education • Consulting | ML • NLP • RAG • Forecasting | AWS • Azure |
+**Artificial Intelligence • Machine Learning • Generative AI • MLOps • Cloud-Native AI**
 
 </div>
-
-## Professional Achievements
+# Professional Achievements
 
 <div align="center">
 
-  **Delivering measurable business impact through Artificial Intelligence, Machine Learning, and Enterprise Software Engineering**
+> **Delivering measurable business impact through Artificial Intelligence, Machine Learning, and Data Engineering.**
 
 </div>
 
@@ -677,43 +526,44 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 | Recognition | Achievement & Business Impact |
 |:------------|:------------------------------|
-| Production-Grade RAG Platform | Improved document retrieval reliability by **32%**, increased source-grounded response accuracy by **27%**, and reduced regression risk by **35%** through hybrid retrieval and intelligent evaluation pipelines. |
-| Customer Churn Prediction | Improved churn prediction recall by **24%**, reduced noisy model inputs by **28%**, and enabled business teams to identify the top **18%** at-risk customer segment. |
-| Retail Demand Forecasting | Improved weekly inventory planning accuracy by **18%** using SKU-level forecasting models built with Python, XGBoost, Prophet, and Snowflake. |
-| Customer Segmentation | Increased marketing targeting efficiency by **14%** through machine learning-driven customer segmentation workflows. |
-| Data Engineering Excellence | Reduced manual data preparation effort by **35%** by developing scalable Databricks and PySpark feature engineering pipelines. |
-| Workflow Automation | Reduced recurring analytics turnaround time from **2 days to 6 hours** through automated machine learning workflows. |
+| Production-Grade RAG Platform | Improved document retrieval reliability by **32%**, increased grounded response accuracy by **27%**, and reduced regression risk by **35%** through hybrid retrieval and intelligent evaluation pipelines. |
+| Customer Churn Prediction | Improved churn prediction recall by **24%**, reduced noisy model inputs by **28%**, and identified the top **18%** at-risk customer segment. |
+| Retail Demand Forecasting | Improved weekly inventory planning accuracy by **18%** using machine learning forecasting models. |
+| Customer Segmentation | Increased marketing targeting efficiency by **14%** through ML-driven customer segmentation. |
+| Data Engineering | Reduced manual data preparation effort by **35%** using Databricks, PySpark, and Snowflake pipelines. |
+| Workflow Automation | Reduced analytics turnaround time from **2 days to 6 hours** through automated ML workflows. |
 | NLP & Sentiment Analysis | Developed a BERT-based sentiment analysis model achieving **94%** classification accuracy. |
-| CI/CD & MLOps | Reduced deployment preparation time from **2 weeks to 2 days** using Docker, GitHub Actions, and modern CI/CD workflows. |
+| MLOps & CI/CD | Reduced deployment preparation time from **2 weeks to 2 days** using Docker and GitHub Actions. |
 
 </div>
 
 ---
 
-## Key Engineering Contributions
+## Engineering Contributions
 
-- Designed and deployed enterprise-scale **Machine Learning** solutions for retail analytics, customer intelligence, and demand forecasting.
-- Developed production-ready **Generative AI** and **Retrieval-Augmented Generation (RAG)** applications using modern LLM frameworks.
-- Built scalable feature engineering, ETL, and data processing pipelines using **Databricks**, **PySpark**, **Snowflake**, and **SQL**.
-- Automated machine learning workflows, reporting pipelines, and deployment processes to improve operational efficiency.
-- Applied **MLOps** best practices using **Docker**, **GitHub Actions**, and cloud-native technologies.
-- Collaborated with cross-functional engineering and business teams to deliver production-ready AI solutions with measurable business impact.
+- Developed production-ready **Machine Learning** and **Generative AI** applications for enterprise use cases.
+- Designed scalable **Retrieval-Augmented Generation (RAG)** systems using LangChain, LlamaIndex, and vector databases.
+- Built distributed data processing and feature engineering pipelines using **Databricks**, **PySpark**, and **Snowflake**.
+- Automated model training, evaluation, and deployment using **Docker**, **GitHub Actions**, and cloud-native workflows.
+- Delivered scalable AI solutions using **AWS**, **Azure**, **FastAPI**, and modern MLOps practices.
 
 ---
 
 <div align="center">
 
-### Engineering Focus
+### Engineering Impact
 
-**Enterprise AI • Machine Learning • Generative AI • MLOps • Data Engineering • Cloud-Native Solutions**
+**Artificial Intelligence • Machine Learning • Generative AI • MLOps • Data Engineering**
 
 </div>
+
+---
 
 # Certifications
 
 <div align="center">
 
-**Continuous Learning • Professional Development • Industry-Recognized Certifications**
+> **Continuous learning through industry-recognized certifications and hands-on AI engineering.**
 
 </div>
 
@@ -733,15 +583,14 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <br>
 
-**Skills Covered**
+### Skills Covered
 
 - Amazon SageMaker
 - Machine Learning Pipelines
 - Model Training & Deployment
 - Feature Engineering
-- Model Monitoring
 - AWS AI Services
-- MLOps Best Practices
+- MLOps
 
 </details>
 
@@ -761,14 +610,13 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <br>
 
-**Skills Covered**
+### Skills Covered
 
 - Azure Machine Learning
 - Azure AI Search
-- Cognitive Services
 - Azure OpenAI
+- Cognitive Services
 - AI Solution Deployment
-- Cloud-Based AI Workloads
 
 </details>
 
@@ -788,14 +636,13 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <br>
 
-**Skills Covered**
+### Skills Covered
 
 - Deep Learning
 - Neural Networks
 - Computer Vision
-- Model Training
+- Model Optimization
 - TensorFlow Ecosystem
-- Production AI Models
 
 </details>
 
@@ -823,15 +670,14 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <br>
 
-**Skills Covered**
+### Skills Covered
 
 - Machine Learning
 - Artificial Intelligence
 - Data Analytics
-- Statistical Analysis
 - Predictive Modeling
-- Business Intelligence
 - Python for Data Science
+- Business Intelligence
 
 </details>
 
@@ -853,39 +699,37 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 ---
 
-## Core Competencies Validated
-
 <div align="center">
 
-| Artificial Intelligence | Machine Learning | Cloud Computing | Data Engineering | Generative AI |
-|:-----------------------:|:----------------:|:---------------:|:----------------:|:-------------:|
-| ✓ | ✓ | ✓ | ✓ | ✓ |
+### Validated Skills
+
+**Artificial Intelligence • Machine Learning • Generative AI • Cloud Computing • Data Engineering**
 
 </div>
 
 ---
 
-# Open Source & Professional Development
+# Professional Development
 
 <div align="center">
 
-> **Passionate about designing production-ready Artificial Intelligence and Machine Learning solutions while continuously advancing expertise in Generative AI, MLOps, and Large Language Models.**
+> **Continuously expanding expertise in Artificial Intelligence, Machine Learning, and Enterprise AI systems.**
 
 </div>
 
 ---
 
-## Current Focus
+## Current Learning Areas
 
 <div align="center">
 
-| Learning | Building | Exploring |
-|:---------|:---------|:----------|
-| Large Language Models (LLMs) | Production-Grade RAG Applications | Agentic AI Systems |
-| Generative AI | Enterprise AI Solutions | Multi-Agent Workflows |
-| MLOps & LLMOps | AI-Powered Business Applications | AI Evaluation Frameworks |
-| Advanced Prompt Engineering | Intelligent Automation Pipelines | Model Optimization & Fine-Tuning |
-| Vector Databases | End-to-End ML Pipelines | Knowledge Graphs |
+| Artificial Intelligence | Machine Learning | Cloud & MLOps |
+|:-----------------------:|:----------------:|:-------------:|
+| Large Language Models | Deep Learning | AWS SageMaker |
+| Agentic AI | Computer Vision | Azure Machine Learning |
+| Retrieval-Augmented Generation | Predictive Analytics | Docker & Kubernetes |
+| Prompt Engineering | Model Optimization | MLflow & Kubeflow |
+| AI Evaluation | Recommendation Systems | CI/CD for ML |
 
 </div>
 
@@ -893,27 +737,11 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 ## Professional Development
 
-- Advancing expertise in **Generative AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**.
-- Building production-ready AI applications using **LangChain**, **LlamaIndex**, **FastAPI**, and modern LLM frameworks.
-- Exploring **Agentic AI**, **Multi-Agent Systems**, and autonomous AI workflows.
+- Advancing expertise in **Large Language Models**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**.
+- Building production-ready AI applications using **LangChain**, **LlamaIndex**, **FastAPI**, and cloud-native technologies.
+- Exploring **Agentic AI**, **Multi-Agent Systems**, and intelligent automation.
 - Expanding knowledge of **MLOps**, **LLMOps**, model deployment, and scalable AI infrastructure.
-- Continuously learning emerging AI technologies to develop secure, reliable, and enterprise-grade intelligent systems.
-
----
-
-## AI / ML Areas of Interest
-
-<div align="center">
-
-| Artificial Intelligence | Machine Learning | Generative AI | MLOps & Cloud |
-|:-----------------------:|:----------------:|:-------------:|:-------------:|
-| Large Language Models | Deep Learning | Retrieval-Augmented Generation | AWS SageMaker |
-| Agentic AI | Computer Vision | Prompt Engineering | Azure Machine Learning |
-| Multi-Agent Systems | NLP | LangChain & LlamaIndex | Docker & Kubernetes |
-| AI Evaluation | Predictive Analytics | Vector Databases | MLflow & Kubeflow |
-| AI Automation | Recommendation Systems | AI Assistants | CI/CD for ML |
-
-</div>
+- Contributing to open-source projects while continuously learning emerging AI technologies.
 
 ---
 
@@ -921,14 +749,13 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-| Looking For | Status |
+| Opportunity | Status |
 |:------------|:------:|
-| AI / ML Engineering Projects | Available |
-| Generative AI Development | Available |
-| Large Language Model Applications | Available |
-| Retrieval-Augmented Generation (RAG) | Available |
-| Open Source AI Projects | Available |
-| AI Research & Innovation | Available |
+| AI / ML Engineering | Available |
+| Generative AI Projects | Available |
+| Retrieval-Augmented Generation | Available |
+| Open Source AI | Available |
+| AI Research | Available |
 
 </div>
 
@@ -936,17 +763,16 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-### Engineering Philosophy
+### Professional Vision
 
-*"Building intelligent, scalable, and production-ready AI systems that transform complex business challenges into measurable real-world impact."*
+*"Designing intelligent, scalable, and production-ready AI systems that solve real-world business challenges through Machine Learning and Generative AI."*
 
 </div>
-
 # GitHub Analytics
 
 <div align="center">
 
-> **A visual overview of my GitHub activity, contributions, and open-source journey.**
+> **A visual overview of my GitHub activity, contributions, repositories, and programming languages.**
 
 </div>
 
@@ -954,11 +780,9 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sriharsha-02-Manthena&style=for-the-badge&color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriharsha-02-Manthena&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img src="https://img.shields.io/github/followers/Sriharsha-02-Manthena?style=for-the-badge&label=Followers&color=5B21B6"/>
-
-<img src="https://img.shields.io/github/stars/Sriharsha-02-Manthena?affiliations=OWNER&style=for-the-badge&label=Stars&color=2563EB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharsha-02-Manthena&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"/>
 
 </div>
 
@@ -966,7 +790,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Sriharsha-02-Manthena&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharsha-02-Manthena&theme=github-dark-blue&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -974,28 +798,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sriharsha-02-Manthena&theme=tokyo-night&hide_border=true&radius=16&area=true)](https://github.com/Sriharsha-02-Manthena)
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena/main/github-metrics.svg"/>
 
 </div>
 
@@ -1005,44 +808,25 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 ### Engineering Focus
 
-**Artificial Intelligence • Machine Learning • Generative AI • Retrieval-Augmented Generation • MLOps • Cloud-Native AI**
-
-</div>
-
-# GitHub Highlights
-
-<div align="center">
-
-> **Showcasing continuous learning, open-source contributions, and engineering excellence.**
+**Artificial Intelligence • Machine Learning • Generative AI • MLOps • Cloud-Native AI**
 
 </div>
 
 ---
 
-## AI / ML Expertise
+# GitHub Trophies
 
 <div align="center">
 
-| Artificial Intelligence | Machine Learning | Generative AI | MLOps & Cloud |
-|:-----------------------:|:----------------:|:-------------:|:-------------:|
-| Large Language Models | Deep Learning | Retrieval-Augmented Generation | AWS SageMaker |
-| Agentic AI | Predictive Analytics | Prompt Engineering | Azure Machine Learning |
-| Multi-Agent Systems | Computer Vision | LangChain & LlamaIndex | Docker & Kubernetes |
-| AI Evaluation | Recommendation Systems | Vector Databases | MLflow & Kubeflow |
+> **Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence and Machine Learning.**
 
 </div>
 
 ---
 
-## Core AI Engineering Principles
-
 <div align="center">
 
-| Intelligent Systems | Production AI | Responsible AI | Continuous Learning |
-|:-------------------:|:-------------:|:--------------:|:-------------------:|
-| Scalable AI Architectures | Production-Ready ML Pipelines | Explainable AI | Continuous Research |
-| Retrieval-Augmented Generation | Model Optimization | Secure AI Applications | Emerging AI Technologies |
-| Cloud-Native AI Solutions | Enterprise MLOps | Ethical AI Development | Open Source Contributions |
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriharsha-02-Manthena&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
@@ -1052,15 +836,17 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 ### AI Engineering Philosophy
 
-*"Designing intelligent, scalable, and production-ready AI systems that transform complex data into actionable business value through Machine Learning, Generative AI, and modern MLOps practices."*
+*"Building intelligent, scalable, and production-ready AI systems through Machine Learning, Generative AI, and cloud-native engineering."*
 
 </div>
+
+---
 
 # Contribution Activity
 
 <div align="center">
 
-**A visual overview of my GitHub contributions and continuous learning journey.**
+> **A visual representation of my GitHub contributions and continuous learning journey.**
 
 </div>
 
@@ -1088,7 +874,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-**A live visualization of my GitHub contribution history.**
+> **A live visualization of my GitHub contribution history.**
 
 </div>
 
@@ -1117,7 +903,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-*"Every contribution is an opportunity to learn, improve, and build intelligent solutions."*
+*"Every contribution represents continuous learning, innovation, and the pursuit of engineering excellence."*
 
 </div>
 
@@ -1127,7 +913,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-**Currently learning, building, and exploring modern Artificial Intelligence technologies.**
+> **Currently learning, building, and exploring production-ready Artificial Intelligence systems.**
 
 </div>
 
@@ -1140,22 +926,22 @@ current_focus:
     - Large Language Models (LLMs)
     - Agentic AI
     - Retrieval-Augmented Generation (RAG)
-    - MLOps & LLMOps
     - Advanced Prompt Engineering
+    - MLOps & LLMOps
 
   building:
     - Enterprise AI Applications
     - Production-Grade RAG Systems
-    - Intelligent Machine Learning Pipelines
+    - Intelligent ML Pipelines
     - AI-Powered Business Solutions
-    - End-to-End MLOps Workflows
+    - Cloud-Native AI Services
 
   exploring:
     - Multi-Agent AI Systems
     - Vector Databases
     - AI Evaluation Frameworks
-    - Model Optimization
     - Explainable AI (XAI)
+    - Model Optimization
 
   open_to:
     - AI / ML Engineer
@@ -1185,7 +971,7 @@ current_focus:
 
 ### Mission
 
-*"Building intelligent, scalable, and production-ready AI systems that transform complex business challenges into measurable business value."*
+*"Building intelligent, scalable, and production-ready AI systems that transform complex data into measurable business value."*
 
 </div>
 
@@ -1195,7 +981,7 @@ current_focus:
 
 <div align="center">
 
-  **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
+> **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
 
 </div>
 
@@ -1205,10 +991,6 @@ current_focus:
 
 <a href="mailto:sriharsha.manthena@applywizard.ai">
 <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sriharsha-02-Manthena">
@@ -1229,7 +1011,6 @@ current_focus:
 |:--------|:-----|
 | Portfolio | https://applywizz-sriharshamanthena-6162.vercel.app |
 | GitHub | https://github.com/Sriharsha-02-Manthena |
-| LinkedIn | https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/ |
 | Email | sriharsha.manthena@applywizard.ai |
 
 </div>
