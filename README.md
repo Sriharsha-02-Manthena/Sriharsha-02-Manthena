@@ -21,10 +21,9 @@
 <img src="https://img.shields.io/github/followers/Sriharsha-02-Manthena?style=for-the-badge&color=5B21B6&label=Followers"/>
 <img src="https://img.shields.io/github/stars/Sriharsha-02-Manthena?affiliations=OWNER&style=for-the-badge&color=4338CA&label=Stars"/>
 </div>
-
 ---
 
-# About Me
+## About Me
 
 AI/ML Engineer with expertise in **Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Data Engineering**. Passionate about building scalable, production-ready AI applications that solve real-world business problems.
 
@@ -62,83 +61,49 @@ Experienced in designing end-to-end AI pipelines, developing intelligent automat
 <div align="center">
 
 ## Programming Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,r,mysql&theme=dark"/>
 </p>
-
 ---
 
 ## AI & Machine Learning
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LightGBM-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LlamaIndex-6D28D9?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-
 <img src="https://img.shields.io/badge/RAG-4338CA?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge"/>
-
 </p>
-
 ---
 
 ## Data Engineering
-
 <p>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark"/>
-
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks"/>
-
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt"/>
-
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
-
 </p>
-
 ---
 
 ## Cloud & MLOps
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions&theme=dark"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws"/>
-
 <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws"/>
-
 <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -146,17 +111,11 @@ Experienced in designing end-to-end AI pipelines, developing intelligent automat
 ## APIs & Deployment
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -164,17 +123,11 @@ Experienced in designing end-to-end AI pipelines, developing intelligent automat
 ## Visualization & Tools
 
 <p>
-
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
-
 </p>
 
 </div>
@@ -182,15 +135,11 @@ Experienced in designing end-to-end AI pipelines, developing intelligent automat
 # Featured Projects
 
 <div align="center">
-
-> **Production-ready Artificial Intelligence and Machine Learning solutions designed for enterprise applications.**
-
+  **Production-ready Artificial Intelligence and Machine Learning solutions designed for enterprise applications.**
 </div>
-
 ---
 
 <details open>
-
 <summary><b>Production-Grade Retrieval-Augmented Generation (RAG) Application</b></summary>
 
 ### Overview
@@ -220,9 +169,7 @@ Developed a production-ready Retrieval-Augmented Generation (RAG) platform enabl
 - Built a scalable enterprise-ready AI knowledge platform
 
 </details>
-
 ---
-
 <details>
 
 <summary><b>Customer Churn Prediction</b></summary>
@@ -254,26 +201,13 @@ Designed an end-to-end Machine Learning solution to identify high-risk customers
 - Enabled data-driven customer retention strategies
 
 </details>
-
----
-
-<div align="center">
-
-### Project Highlights
-
-| Projects | AI / ML | Enterprise Ready | Open Source |
-|:---------:|:-------:|:----------------:|:-----------:|
-| **2** | ✓ | ✓ | ✓ |
-
-</div>
-
 ---
 
 # Professional Experience
 
 <div align="center">
 
-> **Building scalable AI, Machine Learning, and Data Engineering solutions with measurable business impact.**
+**Building scalable AI, Machine Learning, and Data Engineering solutions with measurable business impact.**
 
 </div>
 
@@ -318,16 +252,15 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 | Prompt Engineering | Model Deployment | Kubernetes |
 
 </div>
+
 # Certifications
 
 <div align="center">
 
-> **Industry-recognized certifications supporting my expertise in Artificial Intelligence, Machine Learning, Cloud Computing, and Data Analytics.**
+**Industry-recognized certifications supporting my expertise in Artificial Intelligence, Machine Learning, Cloud Computing, and Data Analytics.**
 
 </div>
-
 ---
-
 <div align="center">
 
 | Provider | Certification |
@@ -338,11 +271,8 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 | **Coursera** | Machine Learning Specialization |
 | **Coursera** | IBM AI Engineering Professional Certificate |
 | **Coursera** | Google Data Analytics Professional Certificate |
-
 </div>
-
 ---
-
 <div align="center">
 
 ### Core Learning Areas
@@ -352,12 +282,6 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 </div>
 
 ---
-
-# Professional Highlights
-
-<div align="center">
-
-> **Selected achievements demonstrating business impact through AI and Machine Learning.**
 
 </div>
 
@@ -374,17 +298,6 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 | **Workflow Automation** | Reduced analytics turnaround time from **2 days to 6 hours** through automation. |
 
 </div>
-
----
-
-# Professional Development
-
-<div align="center">
-
-> **Continuously improving my expertise in Artificial Intelligence, Machine Learning, and scalable AI systems.**
-
-</div>
-
 ---
 
 ## Current Learning
@@ -411,20 +324,12 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 </div>
 
----
-
-<div align="center">
-
-### Professional Goal
-
-*Building intelligent, scalable, and production-ready AI systems that solve real-world business challenges.*
-
-</div>
+----
 # GitHub Analytics
 
 <div align="center">
 
-> **A snapshot of my GitHub activity, contributions, and open-source development.**
+ **A snapshot of my GitHub activity, repositories, and coding statistics.**
 
 </div>
 
@@ -432,11 +337,10 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 <div align="center">
 
-<!-- Replace YOUR_VERCEL_DOMAIN with your self-hosted GitHub Readme Stats URL -->
+<!-- Temporary Public Instance -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sriharsha-02-Manthena&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark_dimmed&hide_border=true"/>
 
-<img height="180em" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=Sriharsha-02-Manthena&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark_dimmed&hide_border=true"/>
-
-<img height="180em" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=Sriharsha-02-Manthena&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sriharsha-02-Manthena&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true"/>
 
 </div>
 
@@ -454,7 +358,7 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 <div align="center">
 
-> **Automatically updated every day using GitHub Actions.**
+**Automatically updated every day using GitHub Actions.**
 
 </div>
 
@@ -472,14 +376,11 @@ Developing enterprise AI applications, Machine Learning solutions, and Generativ
 
 <div align="center">
 
-> **Latest development activity automatically updated.**
+> **Recent GitHub activity will appear here automatically after enabling GitHub Actions.**
 
 </div>
 
 ---
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -521,7 +422,7 @@ src="https://raw.githubusercontent.com/Sriharsha-02-Manthena/Sriharsha-02-Manthe
 
 <div align="center">
 
-> **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
+**Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
 
 </div>
 
