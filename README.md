@@ -94,14 +94,13 @@ I thrive in cross-functional engineering environments where software engineering
 ✔ Computer Vision Engineer
 
 ---
-
-> **"Building intelligent software that combines scalable engineering with practical AI to solve real-world business problems."**
+ **"Building intelligent software that combines scalable engineering with practical AI to solve real-world business problems."**
 
 ## Tech Stack
 
 <div align="center">
 
-> **Building Enterprise AI, Machine Learning, and Cloud-Native Applications**
+ **Building Enterprise AI, Machine Learning, and Cloud-Native Applications**
 
 </div>
 
@@ -241,7 +240,7 @@ I thrive in cross-functional engineering environments where software engineering
 
 ---
 
-## 🚀 Model Serving & APIs
+## Model Serving & APIs
 
 <div align="center">
 
@@ -333,7 +332,7 @@ I thrive in cross-functional engineering environments where software engineering
 
 <div align="center">
 
-> **Designing Enterprise AI Systems • Production ML Pipelines • Intelligent Applications**
+  **Designing Enterprise AI Systems • Production ML Pipelines • Intelligent Applications**
 
 </div>
 
@@ -402,11 +401,11 @@ I thrive in cross-functional engineering environments where software engineering
 
 </div>
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
-> **Enterprise AI • Production Machine Learning • Generative AI**
+  **Enterprise AI • Production Machine Learning • Generative AI**
 
 </div>
 
@@ -414,9 +413,9 @@ I thrive in cross-functional engineering environments where software engineering
 
 <details open>
 
-<summary><b>🚀 Production-Grade Retrieval-Augmented Generation (RAG) Application</b></summary>
+<summary><b> Production-Grade Retrieval-Augmented Generation (RAG) Application</b></summary>
 
-## 📖 Overview
+## Overview
 
 A **production-ready Retrieval-Augmented Generation (RAG)** platform built to deliver accurate, context-aware, and source-grounded responses using hybrid retrieval, intelligent reranking, and multi-provider LLM support.
 
@@ -424,7 +423,7 @@ The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio*
 
 ---
 
-### 📊 Project Details
+### Project Details
 
 | Category | Details |
 |----------|---------|
@@ -450,7 +449,7 @@ The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio*
 
 ---
 
-### ✨ Key Features
+### Key Features
 
 - Hybrid BM25 + Semantic Vector Retrieval
 - Cross-Encoder Re-ranking
@@ -465,17 +464,17 @@ The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio*
 
 ---
 
-### 📈 Business Impact
+### Business Impact
 
-- 📈 Improved document retrieval reliability by **32%**
-- 🎯 Increased source-grounded response accuracy by **27%**
-- ⚡ Reduced regression risk by **35%**
-- 🤖 Enabled multi-provider LLM interoperability
-- 🏢 Delivered an enterprise-ready AI knowledge assistant
+-  Improved document retrieval reliability by **32%**
+-  Increased source-grounded response accuracy by **27%**
+-  Reduced regression risk by **35%**
+-  Enabled multi-provider LLM interoperability
+-  Delivered an enterprise-ready AI knowledge assistant
 
 ---
 
-### 🛠 Technologies
+### Technologies
 
 `Python`
 `FastAPI`
@@ -495,9 +494,9 @@ The application leverages **FastAPI**, **LlamaIndex**, **Qdrant**, and **Gradio*
 
 <details>
 
-<summary><b>📊 Customer Churn Prediction</b></summary>
+<summary><b> Customer Churn Prediction</b></summary>
 
-## 📖 Overview
+## Overview
 
 An end-to-end **Machine Learning** solution that predicts customer churn using customer behavior, tenure, billing, and service usage data.
 
@@ -505,7 +504,7 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 ---
 
-### 📊 Project Details
+### Project Details
 
 | Category | Details |
 |----------|---------|
@@ -530,7 +529,7 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 ---
 
-### ✨ Key Features
+### Key Features
 
 - Customer Behavior Analytics
 - Feature Engineering
@@ -544,17 +543,17 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 ---
 
-### 📈 Business Impact
+### Business Impact
 
-- 📈 Improved churn prediction recall by **24%**
-- ⚡ Reduced noisy model inputs by **28%**
-- 🎯 Identified the top **18%** high-risk customer segment
-- 💼 Enabled data-driven customer retention strategies
-- 📊 Improved business decision-making through predictive analytics
+- Improved churn prediction recall by **24%**
+- Reduced noisy model inputs by **28%**
+- Identified the top **18%** high-risk customer segment
+- Enabled data-driven customer retention strategies
+- Improved business decision-making through predictive analytics
 
 ---
 
-### 🛠 Technologies
+### Technologies
 
 `Python`
 `SQL`
@@ -571,7 +570,7 @@ The project applies feature engineering, predictive modeling, and performance ev
 
 <div align="center">
 
-## 📌 Project Portfolio Summary
+## Project Portfolio Summary
 
 | Production Projects | AI / ML | Enterprise Ready | Open Source |
 |:------------------:|:-------:|:----------------:|:-----------:|
@@ -668,7 +667,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-> **Delivering measurable business impact through Artificial Intelligence, Machine Learning, and Enterprise Software Engineering**
+  **Delivering measurable business impact through Artificial Intelligence, Machine Learning, and Enterprise Software Engineering**
 
 </div>
 
@@ -714,7 +713,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-> **Continuous Learning • Professional Development • Industry-Recognized Certifications**
+**Continuous Learning • Professional Development • Industry-Recognized Certifications**
 
 </div>
 
@@ -942,6 +941,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 *"Building intelligent, scalable, and production-ready AI systems that transform complex business challenges into measurable real-world impact."*
 
 </div>
+
 # GitHub Analytics
 
 <div align="center">
@@ -990,7 +990,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-> **Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence, Machine Learning, and Generative AI.**
+**Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence, Machine Learning, and Generative AI.**
 
 </div>
 
@@ -1045,7 +1045,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-> **A visual overview of my GitHub contributions and continuous learning journey.**
+**A visual overview of my GitHub contributions and continuous learning journey.**
 
 </div>
 
@@ -1073,7 +1073,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-> **A live visualization of my GitHub contribution history.**
+**A live visualization of my GitHub contribution history.**
 
 </div>
 
@@ -1112,7 +1112,7 @@ Contributed to enterprise AI and Machine Learning projects by developing predict
 
 <div align="center">
 
-> **Currently learning, building, and exploring modern Artificial Intelligence technologies.**
+**Currently learning, building, and exploring modern Artificial Intelligence technologies.**
 
 </div>
 
@@ -1180,7 +1180,7 @@ current_focus:
 
 <div align="center">
 
-> **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
+  **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
 
 </div>
 
