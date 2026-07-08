@@ -768,11 +768,12 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 *"Designing intelligent, scalable, and production-ready AI systems that solve real-world business challenges through Machine Learning and Generative AI."*
 
 </div>
-# GitHub Analytics
+
+## GitHub Analytics
 
 <div align="center">
 
-> **A visual overview of my GitHub activity, contributions, repositories, and programming languages.**
+**A visual overview of my GitHub activity, contributions, repositories, and programming languages.**
 
 </div>
 
@@ -818,7 +819,7 @@ Designed and implemented enterprise AI and Machine Learning solutions focused on
 
 <div align="center">
 
-> **Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence and Machine Learning.**
+**Recognizing continuous learning, open-source contributions, and excellence in Artificial Intelligence and Machine Learning.**
 
 </div>
 
@@ -981,7 +982,7 @@ current_focus:
 
 <div align="center">
 
-> **Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
+**Open to Artificial Intelligence, Machine Learning, and Generative AI opportunities.**
 
 </div>
 
@@ -1000,18 +1001,6 @@ current_focus:
 <a href="https://applywizz-sriharshamanthena-6162.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-| Contact | Link |
-|:--------|:-----|
-| Portfolio | https://applywizz-sriharshamanthena-6162.vercel.app |
-| GitHub | https://github.com/Sriharsha-02-Manthena |
-| Email | sriharsha.manthena@applywizard.ai |
 
 </div>
 
