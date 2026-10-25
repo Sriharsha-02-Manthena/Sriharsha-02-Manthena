@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/B.Tech-Electrical_&_Electronics_Engineering-4338CA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-Massachusetts,_USA-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <br><br>
-<a href="https://applywizz-sriharshamanthena-6162.vercel.app">
+<a href="https://muse.ai/s/framer-style-portfolio-rg5xxpxawxinbz/d1Dox2RMHKAvC3PfPjp3geR5Dt5L4B_f4wGvn6dwFWw">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:sriharsha.manthena@applywizard.ai">
@@ -417,7 +417,7 @@ Developing enterprise AI and Machine Learning solutions for retail forecasting, 
 <img src="https://img.shields.io/badge/GitHub-Sriharsha--02--Manthena-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://applywizz-sriharshamanthena-6162.vercel.app">
+<a href="https://muse.ai/s/framer-style-portfolio-rg5xxpxawxinbz/d1Dox2RMHKAvC3PfPjp3geR5Dt5L4B_f4wGvn6dwFWw">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -429,7 +429,7 @@ Developing enterprise AI and Machine Learning solutions for retail forecasting, 
 
 | Contact | Link |
 |:---------|:-----|
-| Portfolio | **https://applywizz-sriharshamanthena-6162.vercel.app** |
+| Portfolio | **https://muse.ai/s/framer-style-portfolio-rg5xxpxawxinbz/d1Dox2RMHKAvC3PfPjp3geR5Dt5L4B_f4wGvn6dwFWw** |
 | GitHub | **https://github.com/Sriharsha-02-Manthena** |
 | Email | **sriharsha.manthena@applywizard.ai** |
 
