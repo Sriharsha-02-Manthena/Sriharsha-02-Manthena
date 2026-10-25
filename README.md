@@ -10,7 +10,7 @@
 <a href="https://muse.ai/s/framer-style-portfolio-rg5xxpxawxinbz/d1Dox2RMHKAvC3PfPjp3geR5Dt5L4B_f4wGvn6dwFWw">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="mailto:sriharsha.manthena@applywizard.ai">
+<a href="mailto:sriharshamanthena02@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Sriharsha-02-Manthena">
@@ -25,9 +25,9 @@
 
 ## About Me
 
-AI/ML Engineer with expertise in **Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Data Engineering**. Passionate about building scalable, production-ready AI applications that solve real-world business problems.
+AI/ML Engineer with 4+ years of experience shipping machine learning and Generative AI solutions across retail, consulting, and academic environments, covering forecasting, recommendations, NLP, anomaly detection, and RAG.
 
-Experienced in designing end-to-end AI pipelines, developing intelligent automation solutions, and deploying cloud-native applications using modern MLOps practices.
+Strongest results: 18% higher forecasting accuracy, 94% NLP classification accuracy, model processing turnaround cut from 48 hours to 6 hours.
 
 ---
 
@@ -35,13 +35,16 @@ Experienced in designing end-to-end AI pipelines, developing intelligent automat
 
 <div align="center">
 
-| Domain | Expertise |
-|:-------|:----------|
-| Artificial Intelligence | LLMs, RAG, Prompt Engineering |
-| Machine Learning | Predictive Analytics, Forecasting, Classification |
-| Data Engineering | PySpark, Databricks, Snowflake |
-| Cloud & MLOps | AWS, Azure, Docker, Kubernetes |
-| API Development | FastAPI, Flask, Streamlit |
+| Skill Group | Skills |
+|:------------|:-------|
+| Programming & Data | Python, SQL, Pandas, NumPy, PySpark, Apache Spark |
+| Machine Learning | Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Classification, Regression, Clustering, Forecasting, Recommendation Systems, Anomaly Detection, Feature Engineering, Hyperparameter Tuning |
+| Generative AI & NLP | LLMs, RAG, LangChain, LlamaIndex, Hugging Face Transformers, BERT, OpenAI APIs, Prompt Engineering, Embeddings, Vector Search, Hybrid Search, Re-ranking, Grounding, LLM Evaluation |
+| MLOps & Deployment | MLflow, Model Deployment, Model Serving, Model Monitoring, Experiment Tracking, Drift Detection, FastAPI, Docker, Kubernetes, GitHub Actions, CI/CD |
+| Data & ML Platforms | Databricks, Snowflake, Apache Airflow, dbt, ETL/ELT, Data Preprocessing, Data Validation, Feature Pipelines |
+| Cloud & AI Services | AWS SageMaker, Amazon Bedrock, AWS Lambda, Amazon S3 |
+| Model Evaluation & Explainability | Accuracy, Precision, Recall, F1-score, ROC-AUC, MAE, MAPE, SHAP, LIME, A/B Testing |
+| Analytics & Collaboration | Tableau, Statistical Analysis, Requirements Gathering, Stakeholder Collaboration, Agile/Scrum |
 
 </div>
 
@@ -216,42 +219,63 @@ Designed an end-to-end Machine Learning solution to identify high-risk customers
 ## AI / ML Engineer
 
 **Macy's** • *Feb 2025 – Present*  
-*New York, NY (Remote)*
+*USA | Remote*
 
-Developing enterprise AI and Machine Learning solutions for retail forecasting, customer analytics, recommendation systems, and data engineering using cloud-native technologies and scalable ML pipelines.
+
 
 ### Key Responsibilities
 
-- Engineered SKU-level demand forecasting models using **Python, SQL, XGBoost, Prophet, and Snowflake**, improving inventory planning accuracy by **18%**.
-- Built customer segmentation pipelines with **Scikit-learn, Pandas, and SQL**, increasing marketing targeting efficiency by **14%**.
-- Developed scalable **Databricks** and **PySpark** feature engineering pipelines, reducing manual data preparation by **35%**.
-- Created machine learning recommendation models to deliver more relevant product recommendations across digital retail platforms.
-- Evaluated forecasting and recommendation models using **MAE, MAPE, Precision, Recall,** and drift detection to ensure production reliability.
-- Automated model refresh pipelines, reporting datasets, and analytics workflows using **Python, SQL,** and **Databricks**, reducing turnaround time from **2 days to 6 hours**.
-- Collaborated with merchandising, supply chain, marketing, and BI teams to translate business requirements into production-ready AI solutions.
-- Optimized **Snowflake** queries and ML-ready datasets to improve data quality, feature engineering, and model performance.
+- Improved weekly inventory planning accuracy by **18%** through SKU-level demand forecasting (**Python, SQL, XGBoost, Snowflake**).
+- Improved marketing targeting effectiveness by **14%** through customer segmentation (**Scikit-learn, Pandas, SQL, clustering**).
+- Cut time to find product and merchandising answers by **35%** through RAG workflows (**LangChain, LlamaIndex, OpenAI APIs, embeddings, vector search**) across 2 business functions.
+- Reduced recurring data preparation effort by **35%** across 4 retail datasets (**Databricks, PySpark**).
+- Lifted engagement on recommended items by **15%** through recommendation workflows (**Python, SQL, Scikit-learn**).
+- Cut recurring model processing turnaround from **48 hours to 6 hours** through automated weekly model refreshes (**Python, SQL, Databricks**).
+- Validated forecasting, recommendation, and GenAI outputs across 3 model categories before release (**MAE, MAPE, precision, recall, retrieval evaluation, grounding checks**).
+- Partnered with merchandising, supply chain, marketing, and BI teams across 4 cross-functional groups.
 
 ---
 
-### Core Technologies
+## Graduate Assistant - AI/ML Engineer
 
 <div align="center">
 
-`Python` • `SQL` • `XGBoost` • `Prophet` • `Scikit-learn` • `Pandas` • `PySpark` • `Databricks` • `Snowflake` • `Machine Learning` • `Recommendation Systems` • `Demand Forecasting` • `AWS`
+**Western New England University** • *Sep 2024 – Jan 2025*
+*Springfield, MA*
+
+- Reduced campus energy waste by **12%** through energy anomaly detection (**Python, TensorFlow, AWS Lambda**).
+- Reached **94% accuracy** categorizing sentiment in student feedback through fine-tuned BERT (**Python, Hugging Face Transformers**).
+- Increased graduate student engagement with research materials by **18%** through collaborative filtering (**Python, Pandas**).
+- Reduced recurring institutional reporting turnaround by **40%** (**Apache Airflow, dbt, SQL**).
+- Built Tableau dashboards across 3 institutional areas (enrollment, retention, scholarship).
+- Cut ML release preparation from **10 working days to 2 days** (**Docker, GitHub Actions**).
+- Improved student email open rate performance by **9%** through A/B testing (**Python, statistical analysis**).
+- Guided 3 junior analysts through Python preprocessing, feature validation, and model evaluation, reducing junior analyst onboarding time by **30%**.
 
 </div>
 ---
 
 <div align="center">
 
-### Core Expertise
+## AI/ML Engineer
 
-| Artificial Intelligence | Machine Learning | Cloud & MLOps |
-|:-----------------------:|:----------------:|:-------------:|
-| Generative AI | Predictive Analytics | AWS |
-| Large Language Models | Deep Learning | Azure |
-| Retrieval-Augmented Generation | Feature Engineering | Docker |
-| Prompt Engineering | Model Deployment | Kubernetes |
+**Augur Talent Care (Client: Tredence)** • *Oct 2021 – Dec 2023*
+*India | Remote*
+- Delivered ML solutions across 4 applied areas (forecasting, classification, segmentation, business analytics; **Python, SQL, Scikit-learn, TensorFlow, Pandas, NumPy**).
+- Compared Random Forest, XGBoost, regression, and classification approaches across 3 modeling families for algorithm selection.
+- Reduced input quality errors by **28%** before training (**Python, SQL cleaning, transformation, validation**).
+- Engineered reusable customer and operational features across 3 ML stages (preprocessing, training, validation).
+- Evaluated predictive models across 5 assessment methods (accuracy, recall, F1-score, ROC-AUC, error analysis).
+- Documented business assumptions, data rules, expected model behavior, and output definitions across 4 requirement areas.
+- Supported client-facing analytical reviews with data engineers, business analysts, and senior data scientists across 3 cross-functional groups.
+- Reduced recurring analysis effort by **30%** through automated weekly model evaluation reporting (**Python scripts, reusable SQL validation queries**).
+
+---
+
+# Education
+
+- **Master of Science in Business Analytics**, Western New England University, Springfield, MA.
+- **Bachelor of Technology in Electronics and Communication Engineering**, St. Martin's Engineering College, Hyderabad, India.
 
 </div>
 
@@ -268,7 +292,7 @@ Developing enterprise AI and Machine Learning solutions for retail forecasting, 
 | Provider | Certification |
 |:---------|:--------------|
 | **Amazon Web Services** | AWS Certified Machine Learning – Specialty |
-| **Microsoft** | Azure AI Engineer Associate |
+| **Microsoft** | Microsoft Certified: Azure AI Engineer Associate |
 | **TensorFlow** | TensorFlow Developer Certificate |
 | **Coursera** | Machine Learning Specialization |
 | **Coursera** | IBM AI Engineering Professional Certificate |
@@ -409,7 +433,7 @@ Developing enterprise AI and Machine Learning solutions for retail forecasting, 
 
 <div align="center">
 
-<a href="mailto:sriharsha.manthena@applywizard.ai">
+<a href="mailto:sriharshamanthena02@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -431,7 +455,7 @@ Developing enterprise AI and Machine Learning solutions for retail forecasting, 
 |:---------|:-----|
 | Portfolio | **https://muse.ai/s/framer-style-portfolio-rg5xxpxawxinbz/d1Dox2RMHKAvC3PfPjp3geR5Dt5L4B_f4wGvn6dwFWw** |
 | GitHub | **https://github.com/Sriharsha-02-Manthena** |
-| Email | **sriharsha.manthena@applywizard.ai** |
+| Email | **sriharshamanthena02@gmail.com** |
 
 </div>
 
