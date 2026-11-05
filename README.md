@@ -388,8 +388,9 @@ Designed an end-to-end Machine Learning solution to identify high-risk customers
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Sriharsha-02-Manthena/Sriharsha-02-Manthena](https://github.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena)
+1. ⬆️ Pushed undefined commit(s) to [Sriharsha-02-Manthena/grounded-retail-operations-assistant](https://github.com/Sriharsha-02-Manthena/grounded-retail-operations-assistant)
 2. ⬆️ Pushed undefined commit(s) to [Sriharsha-02-Manthena/Sriharsha-02-Manthena](https://github.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena)
+3. ⬆️ Pushed undefined commit(s) to [Sriharsha-02-Manthena/Sriharsha-02-Manthena](https://github.com/Sriharsha-02-Manthena/Sriharsha-02-Manthena)
 <!--RECENT_ACTIVITY:end-->
 ---
 
